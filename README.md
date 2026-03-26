@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shams Zia</h1>
-<h3 align="center">An AI Enthusiast ,Founder of Unicodrex & Co-Organizer at CNCF Lahore</h3>
+<h3 align="center">AI Enthusiast ,Founder of Unicodrex & Co-Organizer at CNCF Lahore</h3>
 
 <br/>
 
