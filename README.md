@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shams Zia</h1>
 <h3 align="center">AI Enthusiast ,Founder of Unicodrex & Co-Organizer at CNCF Lahore</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamas202&label=Profile%20views&color=0e75b6&style=flat" alt="shamas202" /> </p>
+
 
 # 💫 About Me:
 
