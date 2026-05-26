@@ -91,10 +91,10 @@
  <h2><i>⚙️ GitHub Analytics:</i></h2>
 
 <p align="center">
-    <a href="https://github.com/zeeshan020dev">
+    <a href="https://github.com/shamas202">
         <img
             height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&langs_count=8&theme=algolia"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamas202&layout=compact&langs_count=8&theme=algolia"
             alt="Top Languages."
         />
     </a>
