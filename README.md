@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I'm currently working on **growing Unicodrex and the community**
+- 🔭 I'm currently working on **growing Unicodrex and the community*
 
 - 🌱 I'm currently learning **Advanced AI through Anthropic AI certifications**
 
