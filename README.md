@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Advanced AI through Anthropic AI certifications**
 
-- 👯 I'm looking to collaborate on **Cloud-Native computing (CNCF), Open-Source projects & AI Hackathons**
+- 👯 I'm looking to collaborate on **Cloud-Native computing (CNCF), Open-Source projects & AI Hackathons*
 
 - 💬 Ask me about **Kubernetes, Web Development, Cisco Packet Tracer & Tech Event Organization**
 
