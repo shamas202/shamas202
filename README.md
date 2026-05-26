@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **growing Unicodrex and the community**
 
-- 🌱 I'm currently learning **Advanced AI through Anthropic AI certifications**
+- 🌱 I'm currently learning **Advanced AI through Anthropic AI certifications*
 
 - 👯 I'm looking to collaborate on **Cloud-Native computing (CNCF), Open-Source projects & AI Hackathons**
 
