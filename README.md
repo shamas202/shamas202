@@ -107,6 +107,35 @@ open_to:
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamas202&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamas202&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamas202&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamas202&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamas202&theme=github_dark&utcOffset=5" />
+</p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shamas202/shamas202/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📬 Let's Connect
