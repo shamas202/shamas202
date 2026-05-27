@@ -1,108 +1,130 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shams+Zia+;%E2%9A%A1%EF%B8%8F+Founder+:+Unicodrex+%F0%9F%94%AE;Community+Builder+%F0%9F%93%A8;%7C+%F0%9F%9B%A1%EF%B8%8F+DevSecOps+Enthusiast+;%F0%9F%8C%8D+Open+Source+Contributor+%E2%98%81%EF%B8%8F;%E2%9A%B8%EF%B8%8F+CNCF+Co+-+orgaznier+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-**🧑‍💻💼📢Tech Event Organizer • 🚢🐋📦 Docker Lover • 🌍 Open to Remote Opportunities**
-
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamas202&label=Profile%20views&color=0e75b6&style=flat" alt="shamas202" /> </p>
-
-
-# 💫 About Me:
-
-- 🔭 I'm currently working on **growing Unicodrex and the community**
-
-- 🌱 I'm currently learning **Advanced AI through Anthropic AI certifications**
-
-- 👯 I'm looking to collaborate on **Cloud-Native computing (CNCF), Open-Source projects & AI Hackathons**
-
-- 💬 Ask me about **Kubernetes, Web Development, Cisco Packet Tracer & Tech Event Organization**
-
-- ⚡ Fun fact **I can brainstorm open-source architecture while hitting a PR at the gym!**
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shams-zia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/hey_itx_shams/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100013779617118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-
-## 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-<h2> 📊 GitHub Stats:</h2>
-
-<div align="center">
-  <a href="https://github.com/shamas202">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamas202&theme=react&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"If you don't laugh at my jokes, send them to a developer/designer Because you are not the one."</i>
-</div>
-
- <h2><i>⚙️ GitHub Analytics:</i></h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Shams%20Zia&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Founder%20%40%20Unicodrex%20%7C%20DevSecOps%20Enthusiast%20%7C%20CNCF%20Co-organizer&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
-    <a href="https://github.com/shamas202">
-        <img
-            height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamas202&layout=compact&langs_count=8&theme=algolia"
-            alt="Top Languages."
-        />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Founder+%40+Unicodrex+%F0%9F%9A%80;DevSecOps+Enthusiast+%F0%9F%9A%80;CNCF+Co-organizer+%F0%9F%8E%87;Open+Source+Contributor+%F0%9F%92%AC;Cloud-Native+Expert+%F0%9F%8C%8A" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍-Open%20to%20Remote%20Opportunities-22c55e?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shams-zia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/hey_itx_shams/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100013779617118">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shamas202&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/shamas202?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
+  <a href="https://github.com/shamas202">
+    <img src="https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 👾 About Me
+
+```yaml
+name: Shams Zia
+role: Founder @ Unicodrex | DevSecOps Enthusiast | Community Builder
+location: Pakistan
+
+what_i_do:
+  - 🚀 Growing Unicodrex and the developer community
+  - 🛡️ Passionate about DevSecOps and Cloud-Native security
+  - 🌐 Organizing tech events via CNCF
+  - 💻 Contributing to Open Source projects
+
+currently:
+  - 📚 Learning Advanced AI through Anthropic AI certifications
+  - ☁️ Collaborating on Cloud-Native computing & AI Hackathons
+  - 🧠 Brainstorming open-source architecture
+
+passionate_about:
+  - 🚢 Docker, Kubernetes & Infrastructure as Code
+  - 🤖 Artificial Intelligence & Automation
+  - 🌍 Building impactful developer communities
+  - 🏋️‍♂️ Gym and a good PR (Pull Request!)
+
+open_to:
+  - Remote Software Engineering roles
+  - DevSecOps / Cloud Engineering opportunities
+  - Open Source collaboration & AI research
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core Proficiency
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,php,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,git,github,docker,kubernetes,linux,arduino,vscode&perline=11" />
+</p>
+
+### 🛡️ Specialized Toolset & Ecosystem
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shamas202&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamas202&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamas202&theme=react&hide_border=true&background=0d1117" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamas202&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing **Cloud-Native architectures**, **DevSecOps**, or **Community building**. If you're looking for a collaborator or just want to talk tech — reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shams-zia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:shamszia@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"If you don't laugh at my jokes, send them to a developer/designer Because you are not the one."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
