@@ -1,1 +1,26 @@
+name: generate trophy
 
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # runs every Sunday
+  workflow_dispatch:        # also allows manual trigger
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: shamas202
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy.svg to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update trophy SVG"
+          file_pattern: trophy.svg
