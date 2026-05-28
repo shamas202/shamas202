@@ -142,6 +142,8 @@ I founded Unicodrex to close the gap between what universities teach and what th
 
 ## 📊 GitHub Stats
 
+[![trophy](https://github-profile-trophy-winning.vercel.app/...)](...)
+
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shamas202&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/shamas202)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamas202&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/shamas202)
 
