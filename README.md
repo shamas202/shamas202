@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Shams%20Zia&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Founder%20%40%20Unicodrex%20%7C%20DevSecOps%20Enthusiast%20%7C%20CNCF%20Co-organizer&descAlignY=62&descSize=15&descAlign=50)](https://github.com/shamas202)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Founder+%40+Unicodrex+%F0%9F%9A%80;DevSecOps+Enthusiast+%F0%9F%9A%80;CNCF+Co-organizer+%F0%9F%8E%87;Open+Source+Contributor+%F0%9F%92%AC;Cloud-Native+Expert+%F0%9F%8C%8A)](https://git.io/typing-svg)
@@ -11,6 +13,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shamas202&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117)](https://github.com/shamas202)
 [![GitHub Followers](https://img.shields.io/github/followers/shamas202?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117)](https://github.com/shamas202)
+
+</div>
 
 ---
 
@@ -46,6 +50,8 @@ open_to:
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Core Proficiency
@@ -71,37 +77,51 @@ open_to:
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 🛡️ DevSecOps Pipeline — `Docker · Kubernetes · GitHub Actions`
+### 🛡️ DevSecOps Pipeline &nbsp;`Docker · Kubernetes · GitHub Actions`
 
 End-to-end CI/CD pipeline with integrated security scanning using **Trivy + SonarQube + Snyk**. Automated container builds, image vulnerability scans, and Kubernetes deployment with zero-downtime rollouts.
 
 [![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
-### ☁️ Cloud-Native Infrastructure — `Terraform · AWS · Ansible`
+### ☁️ Cloud-Native Infrastructure &nbsp;`Terraform · AWS · Ansible`
 
 Infrastructure as Code project provisioning full AWS environments — VPCs, EKS clusters, RDS instances, and monitoring stacks using Terraform modules and Ansible playbooks.
 
 [![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
-### 🌐 CNCF Community Platform — `Open Source · Community`
+### 🌐 CNCF Community Platform &nbsp;`Open Source · Community`
 
 Community tooling and event coordination resources for **CNCF Cloud Native Lahore** — bridging academia and industry for 500+ developers across Pakistan.
 
 [![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🏗️ What I'm Currently Working On
 
-- 🛡️ Deepening expertise in **DevSecOps** — container security, supply chain security, and zero-trust architectures
-- 🌐 Scaling **Unicodrex** — mentorship series targeting students' first DevOps/Cloud roles
-- 📚 Advancing knowledge in **Kubernetes internals**, **service mesh (Istio)**, and **GitOps with ArgoCD**
+🛡️ Deepening expertise in **DevSecOps** — container security, supply chain security, and zero-trust architectures
+
+🌐 Scaling **Unicodrex** — mentorship series targeting students' first DevOps/Cloud roles
+
+📚 Advancing knowledge in **Kubernetes internals**, **service mesh (Istio)**, and **GitOps with ArgoCD**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🤝 Unicodrex — Community Work
 
@@ -114,7 +134,11 @@ I founded Unicodrex to close the gap between what universities teach and what th
 | 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
 | 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
@@ -133,13 +157,21 @@ I founded Unicodrex to close the gap between what universities teach and what th
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamas202&theme=github_dark)](https://github.com/shamas202)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamas202&theme=github_dark&utcOffset=5)](https://github.com/shamas202)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📈 3D Contribution Graph
 
 [![3D Contribution Graph](https://raw.githubusercontent.com/shamas202/shamas202/main/profile-3d-contrib/profile-night-green.svg)](https://raw.githubusercontent.com/shamas202/shamas202/main/profile-3d-contrib/profile-night-green.svg)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🐍 Contribution Snake
 
@@ -149,15 +181,22 @@ I founded Unicodrex to close the gap between what universities teach and what th
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake.svg" />
 </picture>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📬 Let's Connect
 
-I'm always open to discussing **Cloud-Native architectures**, **DevSecOps**, or **Community building**. If you're looking for a collaborator or just want to talk tech — reach out!
+I'm always open to discussing **Cloud-Native architectures**, **DevSecOps**, or **Community building**.<br>
+If you're looking for a collaborator or just want to talk tech — reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams-zia/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamszia@example.com)
 
-> *"If you don't laugh at my jokes, send them to a developer/designer — because you are not the one."*
+*"If you don't laugh at my jokes, send them to a developer/designer — because you are not the one."*
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)](https://github.com/shamas202)
+
+</div>
