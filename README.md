@@ -131,7 +131,7 @@ I founded Unicodrex to close the gap between what universities teach and what th
 |------|---------|
 | 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **500+** |
 | 🎤 Tech events & workshops organized | **14+** |
-| 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
+| 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · Cloud Native Security Pakistan · GDG Cloud Lahore** |
 | 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
 
 </div>
