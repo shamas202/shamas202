@@ -1,0 +1,58 @@
+name: Generate SBOM
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sbom:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # For releasing the SBOM as an artifact
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up SBOM generation tool
+        run: |
+          # Install syft for SBOM generation
+          curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin v0.90.0
+
+      - name: Generate SBOM
+        id: syft
+        run: |
+          # Generate SBOM in SPDX JSON format
+          syft /github/workspace -o spdx-json > sbom.spdx.json
+          echo "sbom_path=sbom.spdx.json" >> $GITHUB_OUTPUT
+
+      - name: Generate human-readable SBOM summary
+        run: |
+          syft /github/workspace -o table > sbom-summary.txt
+
+      - name: Upload SBOM as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: software-bill-of-materials
+          path: |
+            sbom.spdx.json
+            sbom-summary.txt
+          retention-days: 30
+
+      - name: Create SBOM release (optional)
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: sbom-${{ github.sha }}
+          name: SBOM ${{ github.sha }}
+          body: |
+            Software Bill of Materials generated for commit ${{ github.sha }}
+          files: |
+            sbom.spdx.json
+            sbom-summary.txt

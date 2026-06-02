@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    allow:
+      - dependency-type: "direct"
+    ignore:
+      - dependency-name: "yoshi389111/github-profile-3d-contrib"
+        versions: [">=0.7.1"]  # Example ignore - adjust as needed
+      - dependency-name: "platane/snk/svg-only"
+        versions: [">=v3"]     # Example ignore - adjust as needed

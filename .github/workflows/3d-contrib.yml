@@ -7,16 +7,20 @@ on:
 
 permissions:
   contents: write
+  # Minimize permissions - only grant what's necessary
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Better security practice
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shamas202
