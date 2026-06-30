@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Shams%20Zia&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Founder%20%40%20Unicodrex%20%7C%20DevSecOps%20Enthusiast%20%7C%20CNCF%20Organizer&descAlignY=62&descSize=15&descAlign=50)](https://github.com/shamas202)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=AWS+Community+Builder+%F0%9F%9A%80;Git+Linked+Series+Organizer%F0%9F%9A%80;AWS+Student+Builder+Leader+%F0%9F%8E%87;Open+Source+Contributor+%F0%9F%92%AC;Cloud-Native+Expert+%F0%9F%8C%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Automated+CI/CD+Security+Pipeline+CompilanceT%F0%9F%9A%80;Git+Linked+Series+Organizer%F0%9F%9A%80;AWS+Student+Builder+Leader+%F0%9F%8E%87;Open+Source+Contributor+%F0%9F%92%AC;Cloud-Native+Expert+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
 ![Open to Remote Opportunities](https://img.shields.io/badge/🌍-Open%20to%20Remote%20Opportunities-22c55e?style=for-the-badge)
 
