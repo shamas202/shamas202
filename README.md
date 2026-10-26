@@ -23,17 +23,17 @@
 
 ```yaml
 name: Shams Zia
-role: Founder @ Unicodrex | DevSecOps Enthusiast | Community Builder
+role: Founder @ Unicodrex(Tech Community) | AI/ML |GenAi| Community Builder
 location: Lahore, Pakistan
 
 what_i_do:
   - 🚀 Growing Unicodrex and the developer community
-  - 🛡️ Passionate about DevSecOps and Cloud-Native security
-  - 🌐 Organizing tech events via CNCF
+  - 🛡️ Passionate about AiSecOps and Cloud-Native security
+  - 🌐 Organizing tech events via AWS Community
   - 💻 Contributing to Open Source projects
 
 currently:
-  - 📚 Learning Advanced AI through Anthropic AI certifications
+  - 📚 Learning Advanced AI through AWS AI certifications
   - ☁️ Collaborating on Cloud-Native computing & AI Hackathons
   - 🧠 Brainstorming open-source architecture
 
@@ -45,7 +45,9 @@ passionate_about:
 
 open_to:
   - Remote Software Engineering roles
-  - DevSecOps / Cloud Engineering opportunities
+  - AI/ML roles
+  - CloudOps & DevOps roles 
+  - AiSecOps/ Cloud Engineering opportunities
   - Open Source collaboration & AI research
 ```
 
